@@ -17,7 +17,7 @@ This project uses a **K-Nearest Neighbors (KNN)** classification model along wit
  
 ## 🖼 Frontend Preview
 
-![Frontend UI](https://raw.githubusercontent.com/your-username/your-repo/main/Frontend UI.png)
+![Frontend UI]([https://raw.githubusercontent.com/your-username/your-repo/main/Frontend UI.png](https://github.com/Aman-Ptl/Diabetes-Detection-Analysis/blob/main/Frontend%20UI.png))
 
 
 ### Backend (FastAPI)
