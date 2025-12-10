@@ -17,7 +17,7 @@ This project uses a **K-Nearest Neighbors (KNN)** classification model along wit
  
 ## 🖼 Frontend Preview
 
-![Frontend UI](https://raw.githubusercontent.com/your-username/your-repo/main/frontend_ui.png)
+![Frontend UI](https://raw.githubusercontent.com/your-username/your-repo/main/Frontend UI.png)
 
 
 ### Backend (FastAPI)
